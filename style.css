@@ -1,4 +1,24 @@
 body{
-    background-color: rgb(224, 150, 150);
-    
+    background-color: rgb(255, 255, 255);
+    color:black
+}
+button{
+    font-size: 25px;
+    border-width: 20px;
+}
+.image{
+    width: 25%;
+    height: 25%;
+}
+strong{
+    color:rgb(119, 30, 30)
+}
+.strong2{
+    color:green
+}
+div{
+    display: flex;
+}
+h1{
+    margin: 40px 0 50px 0;
 }
